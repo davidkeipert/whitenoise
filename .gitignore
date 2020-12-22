@@ -106,3 +106,6 @@ dist
 =======
 .tern-port
 >>>>>>> a5a773206fb57bab9c7aa12e5ff592a96ae5e50e
+
+# Discord bot configuration file
+config.json
